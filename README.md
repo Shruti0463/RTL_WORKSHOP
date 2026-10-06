@@ -704,9 +704,9 @@ These images directly communicate the module's main objective of verifying synth
 
 Recommended images:
 
-1. Case/MUX/DEMUX schematic
-2. Latch inference result
-3. Ripple Carry Adder schematic
+1. ** Case/MUX/DEMUX schematic **
+2. ** Latch inference result **
+3. ** Ripple Carry Adder schematic **
 
 These provide a good visual representation of RTL constructs, synthesis behavior and arithmetic hardware.
 
