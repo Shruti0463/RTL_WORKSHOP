@@ -4,7 +4,7 @@ This repository presents my practical work completed during the VLSI RTL Design 
 
 The training includes RTL coding, testbench development, functional simulation, waveform analysis, synthesis, Boolean optimization, sequential logic, timing libraries, hierarchical and flattened synthesis, standard-cell mapping, Gate-Level Simulation, RTL coding practices, latch inference, generate constructs, MUX/DEMUX design, and arithmetic hardware implementation.
 
-## The practical flow gradually moves from simple RTL examples toward optimized, technology-specific hardware using open-source EDA tools and the SKY130 standard-cell library. The individual modules establish the foundation of RTL design, introduce technology-aware synthesis and sequential circuits, explore optimization techniques, verify synthesized designs through GLS, and finally examine how different RTL constructs influence the generated hardware.
+The practical flow gradually moves from simple RTL examples toward optimized, technology-specific hardware using open-source EDA tools and the SKY130 standard-cell library. The individual modules establish the foundation of RTL design, introduce technology-aware synthesis and sequential circuits, explore optimization techniques, verify synthesized designs through GLS, and finally examine how different RTL constructs influence the generated hardware.
 
 # Module 1 – Verilog RTL Design, Simulation and Synthesis Fundamentals
 
@@ -704,9 +704,9 @@ These images directly communicate the module's main objective of verifying synth
 
 Recommended images:
 
-1. **Case/MUX/DEMUX schematic**
-2. **Latch inference result**
-3. **Ripple Carry Adder schematic**
+1. Case/MUX/DEMUX schematic
+2. Latch inference result
+3. Ripple Carry Adder schematic
 
 These provide a good visual representation of RTL constructs, synthesis behavior and arithmetic hardware.
 
